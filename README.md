@@ -2,11 +2,12 @@
 
 **Play now:** [ttv99.github.io/cold-current-surf](https://ttv99.github.io/cold-current-surf/)
 
-An original, dependency-free browser surf game with three selectable courses, ramps, steering, mouse look, jumping, checkpoints, timer, settings, and local records. The visuals and code were independently created from publicly observable behavior; no proprietary assets or private server code are included.
+An original, dependency-free WebGL surf game with three selectable courses, banked ramps, first-person steering and mouse look, jumping, checkpoints, timer, settings, and local records. The visuals and code were independently created from publicly observable behavior; no proprietary assets or private server code are included.
 
 ## Controls
 
-- **W/A/S/D** or arrow keys: move and steer
+- **A/D** or arrow keys: carve left and right
+- **W/S**: build speed and brake
 - **Space:** jump
 - **Mouse:** look (click the course to capture the pointer)
 - **R:** restart; **Esc:** menu
