@@ -2,14 +2,15 @@
 
 **Play now:** [ttv99.github.io/cold-current-surf](https://ttv99.github.io/cold-current-surf/)
 
-An original, dependency-free WebGL surf game with three selectable courses, banked ramps, a 3D surfer riding a shaped board, ramp-driven momentum, mouse steering, jumping, checkpoints, timer, settings, and local records. The player model comes from the rigged Blender character supplied for this project, posed for surfing and exported as lightweight triangle geometry for the browser. Press **V** to switch between the chase camera and classic first-person view. No private server code is included.
+An original, dependency-free WebGL surf game with three selectable courses, a snowy ravine, paired glass-like ramps, a 3D surfer riding a shaped board, ramp-driven momentum, mouse look, jumping, checkpoints, timer, settings, and local records. The course layout and geometry are independently authored from public visual references; it does not include Surfd.net map files. The player model comes from the rigged Blender character supplied for this project, posed for surfing and exported as lightweight triangle geometry for the browser. The game starts in first person; press **V** to switch to the chase camera. No private server code is included.
 
 ## Controls
 
-- **A/D** or arrow keys: pressure the left and right surf ramps
-- **Mouse**: steer your line; click the game to capture/release the pointer
-- **S**: brake; forward momentum comes from the course and ramps
-- **Space:** jump
+- **W/S** or up/down: build speed / brake
+- **A/D** or left/right: pressure the surf ramps
+- **Mouse**: look; click the game to capture/release the pointer
+- **Space** or mouse wheel down: jump
+- **Shift:** duck
 - **V:** switch chase and first-person cameras
 - **R:** restart; **Esc:** menu
 
