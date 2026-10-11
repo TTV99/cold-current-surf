@@ -6,8 +6,9 @@ An original, dependency-free WebGL surf game with three selectable courses, bank
 
 ## Controls
 
-- **A/D** or arrow keys: carve left and right
-- **W/S**: build speed and brake
+- **A/D** or arrow keys: pressure the left and right surf ramps
+- **Mouse**: steer your line; click the game to capture/release the pointer
+- **S**: brake; forward momentum comes from the course and ramps
 - **Space:** jump
 - **Mouse:** look (click the course to capture the pointer)
 - **R:** restart; **Esc:** menu
