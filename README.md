@@ -10,6 +10,7 @@ An original, dependency-free WebGL surf game with three selectable courses, bank
 - **Mouse**: steer your line; click the game to capture/release the pointer
 - **S**: brake; forward momentum comes from the course and ramps
 - **Space:** jump
+- **V:** switch chase and first-person cameras
 - **R:** restart; **Esc:** menu
 
 ## Run locally on Windows
